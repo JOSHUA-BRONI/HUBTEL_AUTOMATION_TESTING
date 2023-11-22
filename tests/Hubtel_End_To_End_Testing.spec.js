@@ -10,11 +10,12 @@ test.describe.configure({
 
 test('hubtel food end to end testing', async({page,context})=> {
 
+  //$env:ENV="local"
     
 
     const addressName = "page.locator('[placeholder='Enter name' ]')"
     const newEnv= process.env.AUTH_TOKEN
-console.log(newEnv);
+//console.log(newEnv);
 
 
     // using cookies to bypass login
@@ -22,7 +23,8 @@ console.log(newEnv);
     name:"consumerAuth",
     //value: "newEnv", 
     value: newEnv,
-    url: "https://hubtel.com/",
+   url: "https://hubtel.com/",
+   
 }])
 
 // Granting hubtel location permission 
@@ -49,6 +51,6 @@ await page.locator('[class="fw-bold text-primary small d-table ps-2"]').click();
 
   await page.locator('[class="btn text-white btn-outline-primary text-primary"]').click(); 
 
-await page.pause();
+ await page.pause();
 
 })
