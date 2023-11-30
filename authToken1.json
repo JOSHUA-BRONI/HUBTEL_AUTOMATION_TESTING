@@ -1,0 +1,79 @@
+{
+  "cookies": [
+    {
+      "name": "true",
+      "value": "iMymmTxnMyoHrwWbKAfY",
+      "domain": "qr.hubtel.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.137617967.1701187898",
+      "domain": ".hubtel.com",
+      "path": "/",
+      "expires": 1735747925.467189,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "consumerAuth",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjIzMzI3MDc2MDI1MCIsImp0aSI6ImM4Yjc2NWJmLTcyYTEtNDAxMS04NWJkLTM4M2U2MGUxMzUxYSIsIm5iZiI6MTcwMTE4NzkxNCwiZXhwIjoxNzMyNzIzOTE0LCJpc3MiOiJodHRwOi8vaHVidGVsLmNvbSIsImF1ZCI6Imh0dHA6Ly9odWJ0ZWwuY29tIn0.C34A9R1q6Mwbj9D8RBxr8_idOOYUmD_DWkj-Tx7qLhs",
+      "domain": ".hubtel.com",
+      "path": "/",
+      "expires": 1709827913,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubtelUserDetails",
+      "value": "{\"profile\":{\"name\":\"JOSHUA BRONI\",\"mobileNumber\":\"233270760250\",\"imageUrl\":\"https://designs.hubtel.com/v4/website//assets/images/user.png\"},\"isLoggedIn\":true,\"location\":{\"name\":\"Circle VIP Station\",\"latitude\":\"5.568455699999999\",\"longitude\":\"-0.2194335\",\"userZone\":\"Osu - Makola\",\"hubtelInZone\":true}}",
+      "domain": ".hubtel.com",
+      "path": "/",
+      "expires": 1709827918,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6BGPYTBNE1",
+      "value": "GS1.1.1701187895.1.1.1701187938.17.0.0",
+      "domain": ".hubtel.com",
+      "path": "/",
+      "expires": 1735747938.417159,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_HQV2FV7KQV",
+      "value": "GS1.1.1701187900.1.1.1701187938.0.0.0",
+      "domain": ".hubtel.com",
+      "path": "/",
+      "expires": 1735747938.427514,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hubtel.com",
+      "localStorage": [
+        {
+          "name": "website-data",
+          "value": "{\"website\":{\"homePageData\":{}}}"
+        },
+        {
+          "name": "hubtel-store",
+          "value": "{\"auth\":{\"userAuthToken\":{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6IjIzMzI3MDc2MDI1MCIsImp0aSI6ImM4Yjc2NWJmLTcyYTEtNDAxMS04NWJkLTM4M2U2MGUxMzUxYSIsIm5iZiI6MTcwMTE4NzkxNCwiZXhwIjoxNzMyNzIzOTE0LCJpc3MiOiJodHRwOi8vaHVidGVsLmNvbSIsImF1ZCI6Imh0dHA6Ly9odWJ0ZWwuY29tIn0.C34A9R1q6Mwbj9D8RBxr8_idOOYUmD_DWkj-Tx7qLhs\",\"msisdn\":\"233270760250\",\"expiry\":\"\"}},\"service\":{\"consumerFavorites\":[],\"favoriteToDelete\":null,\"ignoredECGMeters\":[]},\"account\":{\"userProfile\":{\"customer\":{\"id\":20493971,\"fullName\":\"JOSHUA BRONI\",\"legalName\":\"JOSHUA BRONI\",\"otherName\":\"JOSHUA BRONI\",\"nickName\":null,\"handle\":null,\"gratisTierImageUrl\":null,\"gratisTier\":\"5\",\"mobileNumber\":\"233270760250\",\"alternativeMobileNumber\":null,\"network\":\"tiGO\",\"networkCode\":\"62003\",\"isNewUser\":false,\"email\":null,\"gender\":null,\"countryCode\":\"GH\",\"imageUrl\":null,\"verifiedId\":null,\"verifiedIdType\":null,\"rewardPointScore\":0,\"careForceEnabled\":0,\"birthDate\":null,\"locationLongitude\":\"-0.2194335\",\"locationLatitude\":\"5.568455699999999\",\"locationImage\":null,\"nameOfLocation\":\"Circle VIP Station\",\"city\":\"Accra\",\"zone\":\"Kokomlemle - Airport\",\"currentStation\":\"Kokomlemle\",\"fcMs\":\"c1Er0hz5Qqidp-YIC8GeZB:APA91bHWlegCWxgJt7qZKXgmwl1vKpoAXrMsWTlDJj4fUp826Ma9eI1o-F5YA9lSCaRa6PnJW1qBwzWsNncFModECJsTuqeCipuv-7inn_jYIBwsgREfXlD3c6cDmIW-8SnC94GiEemV\",\"accountVerificationStatus\":null,\"accountVerificationNote\":null,\"hasUnityAccount\":true,\"unityAccountDate\":\"2023-11-16 11:07:35\",\"unityAccountId\":\"fe59b837bea54d6aa9c084194819fef1\",\"ghqrSettlementType\":\"hubtel\",\"ghqrSettlementProvider\":\"hubtel\",\"ghqrSettlementAccountNumber\":\"233270760250\",\"ghqrSettlementAccountName\":\"JOSHUA BRONI\",\"ghqrSettlementAccountCity\":null,\"hubtelSalesFCM\":null,\"isHubtelSalesUser\":false,\"ghqrCode\":null,\"bankCode\":null,\"createdAt\":\"2023-11-16 11:07:35\",\"updateAt\":\"2023-11-28 16:11:54\"},\"wallets\":[{\"id\":9769441,\"customerId\":20493971,\"accountName\":\"JOSHUA BRONI\",\"accountNo\":\"233270760250\",\"type\":\"HUBTEL\",\"providerId\":\"Hubtel.Id\",\"provider\":\"Hubtel\",\"providerType\":\"Internal\",\"status\":\"Active\",\"expiry\":\"**/**\",\"curentBalance\":0,\"availBalance\":0,\"secret\":\"***\",\"countryCode\":\"GH\",\"token\":null,\"note\":null,\"walletImageUrl\":null,\"isTokenized\":true,\"retryCount\":1,\"hasGateKeeperPass\":true,\"idCardFrontSide\":null,\"idCardBackSide\":null,\"idCardHolderSelfie\":null,\"isDefault\":false,\"isFinanceApproved\":false,\"createdAt\":\"2023-11-16 11:07:45\",\"updateAt\":\"2023-11-16 11:07:45\"}]},\"consumerData\":{\"id\":20493971,\"clientId\":0,\"legalName\":\"JOSHUA BRONI\",\"fullName\":\"JOSHUA BRONI\",\"otherName\":\"JOSHUA BRONI\",\"nickName\":null,\"handle\":null,\"gratisTier\":\"5\",\"email\":null,\"gender\":null,\"mobileNumber\":\"233270760250\",\"network\":\"tiGO\",\"networkCode\":\"62003\",\"alternativeMobileNumber\":null,\"birthDate\":null,\"source\":null,\"imageUrl\":null,\"verifiedId\":null,\"verifiedIdType\":null,\"type\":null,\"countryCode\":\"GH\",\"currentCountry\":\"GH\",\"referrer\":null,\"createdAt\":\"2023-11-16 11:07:35\",\"updateAt\":\"2023-11-28 16:11:54\",\"rewardPointScore\":0,\"careForceEnabled\":0,\"fcMs\":\"c1Er0hz5Qqidp-YIC8GeZB:APA91bHWlegCWxgJt7qZKXgmwl1vKpoAXrMsWTlDJj4fUp826Ma9eI1o-F5YA9lSCaRa6PnJW1qBwzWsNncFModECJsTuqeCipuv-7inn_jYIBwsgREfXlD3c6cDmIW-8SnC94GiEemV\",\"twofactorAuth\":false,\"status\":\"Active\",\"momoPreApproval\":false,\"momoPreApprovalDate\":\"0001-01-01 00:00:00\",\"hasUnityAccount\":true,\"unityAccountDate\":\"2023-11-16 11:07:35\",\"unityAccountId\":\"fe59b837bea54d6aa9c084194819fef1\",\"locationLongitude\":\"-0.2194335\",\"locationLatitude\":\"5.568455699999999\",\"nameOfLocation\":\"Circle VIP Station\",\"locationImage\":null,\"city\":\"Accra\",\"zone\":\"Kokomlemle - Airport\",\"currentStation\":\"Kokomlemle\",\"isBlacklisted\":false,\"isTrusted\":false,\"accountVerificationStatus\":\"Approved\",\"accountVerificationNote\":null,\"hubtelSalesFCM\":null,\"isHubtelSalesUser\":false,\"isBNPLCustomer\":false,\"lengthOfCredit\":0,\"installmentPeriod\":null,\"creditLimit\":0,\"gratisTierImageUrl\":null,\"ghqrSettlementType\":null,\"ghqrSettlementProvider\":null,\"ghqrSettlementAccountNumber\":null,\"ghqrSettlementAccountName\":null,\"ghqrSettlementAccountCity\":null,\"ghqrCode\":null,\"bankCode\":null,\"idCardNumber\":null,\"blacklistNote\":null,\"verifiedAt\":\"0001-01-01 00:00:00\",\"lastKycCheckDate\":null,\"deliveries\":[{\"id\":\"5d82bde318024e3c832ab20c375ba4fe\",\"mobileNumber\":\"233270760250\",\"name\":\"Accra Mall\",\"address\":\"Accra Mall\",\"longitude\":\"-0.1733501\",\"latitude\":\"5.6221003\",\"locationImage\":\"5.6221003\",\"zone\":null,\"isDefault\":false,\"createdAt\":\"2023-11-16 22:46:58\"},{\"id\":\"7d28a21abba04c8abcb0ca12c3f2b15f\",\"mobileNumber\":\"233270760250\",\"name\":\"Circle VIP Station\",\"address\":\"Circle VIP Station\",\"longitude\":\"-0.2194335\",\"latitude\":\"5.568455699999999\",\"locationImage\":\"5.568455699999999\",\"zone\":null,\"isDefault\":false,\"createdAt\":\"2023-11-16 16:34:41\"},{\"id\":\"7b46617f42164652a95e48d71f2009d2\",\"mobileNumber\":\"233270760250\",\"name\":\"Takoradi Airport\",\"address\":\"Takoradi Airport\",\"longitude\":\"-1.772689\",\"latitude\":\"4.8944868\",\"locationImage\":\"4.8944868\",\"zone\":null,\"isDefault\":false,\"createdAt\":\"2023-11-16 16:09:40\"},{\"id\":\"0d98b00f344f467b9b4c94591546e754\",\"mobileNumber\":\"233270760250\",\"name\":\"Kokomlemle\",\"address\":\"Kokomlemle\",\"longitude\":\"-0.2086447\",\"latitude\":\"5.5758396\",\"locationImage\":\"5.5758396\",\"zone\":null,\"isDefault\":true,\"createdAt\":\"2023-11-16 14:16:20\"}]},\"consumerDeliveryAddress\":{\"id\":\"7d28a21abba04c8abcb0ca12c3f2b15f\",\"mobileNumber\":\"233270760250\",\"name\":\"Circle VIP Station\",\"address\":\"Circle VIP Station\",\"longitude\":\"-0.2194335\",\"latitude\":\"5.568455699999999\",\"locationImage\":\"5.568455699999999\",\"zone\":null,\"isDefault\":false,\"createdAt\":\"2023-11-16 16:34:41\"},\"temporalLocation\":{},\"hasBeenPromptedForVerification\":false,\"consumerInZone\":true,\"consumerProfileStatus\":{\"hasSetPIN\":true,\"hasCompletedAccountDetail\":false,\"isVerified\":false,\"hasReceiveMoneyAccount\":true,\"hasWallet\":false,\"hasSendId\":false,\"hasApiKey\":false},\"recentSearches\":[],\"pharmacyRecentSearches\":[],\"foodRecentSearches\":[],\"consumerZone\":\"Osu - Makola\",\"consumerCity\":\"Accra\",\"closestStation\":\"Kokomlemle\",\"userStations\":[\"Tesano\",\"Osu\",\"Kokomlemle\"],\"outOfZoneMessage\":null,\"isQuickCommerceActive\":true,\"killSwitchMessage\":\"We are not processing new orders at this time. Please check back soon.\"},\"insurance\":{\"policies\":[],\"policyInfo\":{},\"insuranceOrderItem\":{}},\"cart\":{\"foodCart\":{\"phoneNumber\":\"233270760250\",\"additionalDeliveryFee\":0,\"additionalDeliveryFeeDescription\":null,\"customerName\":\"\",\"cartTotal\":0,\"cartItemTotalWithDelivery\":0,\"deliveryTotal\":0,\"cartTotalWithDelivery\":0,\"cartTotalWithDeliveryDiscount\":0,\"serviceMarkUpTotal\":0,\"surgeFee\":0,\"isScheduledOrder\":false,\"finalDeliveryFee\":0,\"actualDeliveryFee\":0,\"deliveryDiscountFee\":0,\"cartItems\":[],\"createdAt\":\"2023-11-28T16:12:09.9738347Z\",\"updatedAt\":\"2023-11-28T16:12:09.9738354Z\",\"cartType\":\"restaurantCart\",\"restaurants\":[],\"customerStations\":[],\"cartZone\":null,\"cartStations\":null},\"pharmacyCart\":{\"phoneNumber\":\"233270760250\",\"customerName\":\"\",\"totalAmount\":0,\"deliveryTotalAmount\":0,\"discount\":0,\"totalAmountWithDelivery\":0,\"cartTotal\":0,\"deliveryTotal\":0,\"cartTotalWithDelivery\":0,\"serviceMarkUpTotal\":0,\"surgeFee\":0,\"isScheduledOrder\":false,\"cartItems\":[],\"createdAt\":\"2023-11-28T16:12:10.9275002Z\",\"updatedAt\":\"2023-11-28T16:12:10.9275009Z\",\"cartType\":\"pharmacyCart\",\"pharmacies\":[],\"customerStations\":[],\"cartZone\":null,\"cartStations\":null,\"additionalDeliveryFee\":0,\"additionalDeliveryFeeDescription\":null},\"anythingCart\":{\"phoneNumber\":\"233270760250\",\"customerName\":\"\",\"additionalDeliveryFee\":0,\"additionalDeliveryFeeDescription\":null,\"cartTotal\":0,\"totalAmount\":0,\"deliveryTotal\":0,\"cartTotalWithDelivery\":0,\"totalAmountWithDelivery\":0,\"discount\":0,\"surgeFee\":0,\"isScheduledOrder\":false,\"cartItems\":[],\"createdAt\":\"2023-11-28T16:12:10.4308012Z\",\"updatedAt\":\"2023-11-28T16:12:10.430802Z\",\"cartType\":\"shopCart\",\"maxWeight\":45000,\"maxSize\":45000,\"customerStations\":[],\"shops\":[],\"cartZone\":null,\"cartStations\":null},\"itemsAreInCart\":false,\"ecommerceCheckoutData\":{\"tipAmount\":0}},\"checkout\":{\"serviceFlowData\":{},\"smsFlowData\":{},\"fees\":[],\"messagingFlowData\":{},\"insuranceData\":{}},\"ecommerce\":{\"ongoingOrders\":[],\"scheduledOrders\":[],\"selectedMainMeal\":{},\"retailerClosedData\":{},\"showRiderNoteTooltip\":true,\"locationNotesAndAlternativeNumbers\":[],\"itemReviewsAndRatings\":{},\"ordersToRate\":[],\"selectedDeliveryLocation\":\"\",\"shopPageCache\":{},\"foodPageCache\":{}},\"messaging\":{\"contactListData\":{},\"messageData\":{},\"featuresData\":{},\"checkoutData\":{}}}"
+        }
+      ]
+    }
+  ]
+}
