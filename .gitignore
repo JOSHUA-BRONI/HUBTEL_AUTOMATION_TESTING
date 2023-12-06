@@ -5,3 +5,4 @@ node_modules/
 /playwright/.cache/
 /env/
 /auth
+/tests/only/auth.json
